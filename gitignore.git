@@ -1,2 +1,4 @@
 .ipynb_checkpoints
 *.csv
+git rm -r .ipynb_checkpoints/
+*/.ipynb_checkpoints/*
